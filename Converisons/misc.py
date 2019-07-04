@@ -1,0 +1,1 @@
+PASCAL_VOC_INTERMEDIATE_FILE_PATH="C:/Users/anvitha/Desktop/annoformats/tikaxml_pascal_intermediate_file.xml"
